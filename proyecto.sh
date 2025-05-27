@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # ========================
+# Manuel Ivan Salgado Garduño
 # Proyecto de Programación en Shell
 # Módulos: Archivos, Procesos, Usuarios, Sistema, Salir
 # ========================
